@@ -2,7 +2,7 @@
 
 A pixel-perfect and fully responsive frontend clone of the popular [Sheryians Coding School](https://sheryians.com) landing page. This project is built using clean HTML5 and CSS3 to showcase modern frontend design principles.
 
-🌐 *[Live Demo Link](https://github.io)*
+🌐 *[Live Demo Link](https://lollapujitha7-cloud.github.io/Sheryians-Coding-School-Clone/)*
 
 ---
 
