@@ -1,4 +1,4 @@
-# Sheryians Coding School - Landing Page Clone 🚀
+# Sheryians Coding School - Landing Page Clone 
 
 A pixel-perfect and fully responsive frontend clone of the popular [Sheryians Coding School](https://sheryians.com) landing page. This project is built using clean HTML5 and CSS3 to showcase modern frontend design principles.
 
